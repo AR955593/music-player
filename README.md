@@ -1,17 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# TuneSync 🎵
+# AR RAJPUT 🎵
 
 TuneSync is a modern Flutter music player app that provides a seamless audio experience with beautiful UI animations and effects.
-
-## TuneSync 🎵 UI
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/TuneSync.png" />
-## Screenshort 
-<div>
-  <img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155433.png" height = 600 />
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155503.png" height = 600 />
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155534.png" height = 600 />
-</div>
 
 ## 🚀 Features
 - 🎶 Play audio files from the device.
@@ -36,7 +27,7 @@ TuneSync is a modern Flutter music player app that provides a seamless audio exp
 ## 📲 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tunesync.git
+   git clone https://github.com/AR955593/music-player.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -67,21 +58,13 @@ For **Android 13+**, use the latest permission handling from `permission_handler
 This project is licensed under the MIT License.
 
 ---
-Made with ❤️ by Rahul Kumar Sahu 🚀
+Made with ❤️ by AR RAJPUT 🚀
 
 =======
 # ARmusic 🎵
 
 TuneSync is a modern Flutter music player app that provides a seamless audio experience with beautiful UI animations and effects.
 
-## ARmusic 🎵 UI
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/TuneSync.png" />
-## Screenshort 
-<div>
-  <img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155433.png" height = 600 />
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155503.png" height = 600 />
-<img  src = "https://github.com/rahulkumardev24/tuneSync---device-audio-player-/blob/master/Screenshot_20250402_155534.png" height = 600 />
-</div>
 
 ## 🚀 Features
 - 🎶 Play audio files from the device.
